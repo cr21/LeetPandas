@@ -9,5 +9,6 @@
 | 4 |Write a solution to fix the names so that only the first character is uppercase and the rest are lowercase.| apply |  [1667. Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table/))_ | [4.FixName.py](/4.FixName.py) |  :white_check_mark: | Easy |   |
 | 5 |Write a solution to find the users who have valid emails| regex, apply |  [1517. Find Users With Valid E-Mails](https://leetcode.com/problems/find-users-with-valid-e-mails)_ | [Find_users_with_valid_email.py](/Find_users_with_valid_email.py) |  :white_check_mark: | Easy |   |
 | 6 |Write a solution to find the patient_id, patient_name, and conditions of the patients who have Type I Diabetes. Type I Diabetes always starts with DIAB1 prefix.| regex, apply, string |  [1527. Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition) | [Create_Patients_With_diabetes.py](/Patients_With_diabetes.py) |  :white_check_mark: | Easy |   |
+| 7 |Write a solution to delete all duplicate emails, keeping only one unique email with the smallest id  | drop |  [196. Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | [drop_duplicate_emails.py](/delete_duplicate_emails.py) |  :white_check_mark: | Easy |   |
 
 
